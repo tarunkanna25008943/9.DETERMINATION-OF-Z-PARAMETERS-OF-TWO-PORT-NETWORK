@@ -29,14 +29,14 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
  
 
 **CIRCUIT DIAGRAM:**
+<img width="1915" height="945" alt="Screenshot 2026-05-22 090710" src="https://github.com/user-attachments/assets/87f69d83-8d51-426c-8dc9-b093c108fc11" />
 
 
+<img width="1080" height="1572" alt="WhatsApp Image 2026-05-24 at 2 41 13 PM" src="https://github.com/user-attachments/assets/4501deca-5443-455a-a7c6-f9f6f93c2c82" />
 
 **TABULATION:**
-
-
-
-
+<img width="1080" height="1455" alt="WhatsApp Image 2026-05-24 at 2 41 14 PM" src="https://github.com/user-attachments/assets/a0bc8c49-40d3-4e4c-95be-2894e990e2c3" />
+<img width="2160" height="961" alt="WhatsApp Image 2026-05-24 at 2 41 13 PM (1)" src="https://github.com/user-attachments/assets/9d36c9ab-ae26-451f-ad0a-64905ebbabde" />
 
 
 **PROCEDURE:**
@@ -47,9 +47,9 @@ c)	Secondly, open I/P terminal & supply 5V to O/P terminal. Measure I/P Voltage 
 d)	Calculate the values of Z parameter using Equation (1) &(2).
 e)	Switch ‘OFF’ the supply after taking thereadings.
 
-**Mark split up:**
 
 
 **RESULT:**
+<img width="1072" height="591" alt="WhatsApp Image 2026-05-30 at 8 44 36 AM" src="https://github.com/user-attachments/assets/3de43a3f-d666-49d2-a0f3-bd8aebeac45e" />
 
 The Z-parameters of the two port network has been calculated and verified by using Multisim Simulator.
